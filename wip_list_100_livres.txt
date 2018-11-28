@@ -1,0 +1,236 @@
+<!--OK-->{"title": "Frankenstein ou le Prométhée moderne", "author": "Mary Shelley", "year": 1816}</li>
+<!--OK-->{"title": "Voyage au centre de la Terre", "author": "Jules Verne", "year": 1864}</li>
+<!--OK-->{"title": "De la Terre à la Lune", "author": "Jules Verne", "year": 1865}</li>
+<!--OK-->{"title": "Flatland", "author": "Edwin A. Abbott", "year": 1884}</li>
+<!--OK-->{"title": "La machine à explorer le temps", "author": "H.G.Wells", "year": 1895}</li>
+<!--OK-->{"title": "La guerre des Mondes", "author": "H.G.Wells", "year": 1898}</li>
+<!--OK-->{"title": "Le ciel est mort", "author": "John W. Campbell", "year": 1930}</li>
+<!--OK-->{"title": "Le meilleur des mondes", "author": "Aldous Huxley", "year": 1932}</li>
+<!--OK-->{"title": "La Légion de l’espace", "author": "Jack Williamson", "year": 1934}</li>
+<!--OK-->{"title": "Quinzinzinzili", "author": "Régis Messac", "year": 1935}</li>
+<!--OK-->{"title": "Ravage", "author": "René Barjavel", "year": 1943}</li>
+<!--OK-->{"title": "L’Œil du Purgatoire", "author": "Jacques Spitz", "year": 1945}</li>
+<!--OK-->{"title": "À la poursuite des Slans", "author": "Alfred Van Vogt", "year": 1946}</li>
+<!--OK-->{"title": "1984", "author": "George Orwell", "year": 1949}</li>
+<!--OK-->{"title": "Les seigneurs de l’Instrumentalité", "author":"Cordwainer Smith", "year":"1940–1966"}
+<!--OK-->{"title": "Fondation", "author": "saac Asimov", "year": 1950}</li>
+<!--OK-->{"title": "Les enfants d’Icare", "author": "Arthur C. Clarke", "year": 1950}</li>
+<!--OK-->{"title": "Les Robots", "author": "Isaac Asimov", "year": 1950}</li>
+<!--OK-->{"title": "La faune de l’espace", "author": "Alfred Van Vogt", "year": 1951}</li>
+<!--OK-->{"title": "Demain les chiens", "author": "Clifford D. Simak", "year": 1952}</li>
+    </ul>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+    <ul class="postList">
+        <!--OK-->{"title": "Les chroniques martiennes", "author": "Ray Bradbury", "year": 1953}</li>
+        <!--OK-->{"title": "Fahrenheit 451", "author": "Ray Bradbury", "year": 1953}</li>
+        <!--OK-->{"title": "Oms en série", "author": "Stefan Wul", "year": 1957}</li>
+        <li id="fe94" class="graf graf--li graf-after--li"><a href="https://justaword.fr/des-fleurs-pour-algernon-6e7e083b973b" data-href="https://justaword.fr/des-fleurs-pour-algernon-6e7e083b973b" class="markup--anchor markup--li-anchor" target="_blank"><strong class="markup--strong markup--li-strong">Des fleurs pour Algernon</strong></a> de <strong class="markup--strong markup--li-strong">Daniel Keyes</strong> [1959]</li>
+        <!--OK-->{"title": "Solaris", "author": "Stanislaw Lem", "year": 1961}</li>
+        <!--OK-->{"title": "En terre étrangère", "author": "Robert Heinlein", "year": 1961}</li>
+        <li id="4301" class="graf graf--li graf-after--li"><a href="https://justaword.fr/le-ma%C3%AEtre-du-haut-ch%C3%A2teau-e605c0c47abf" data-href="https://justaword.fr/le-ma%C3%AEtre-du-haut-ch%C3%A2teau-e605c0c47abf" class="markup--anchor markup--li-anchor" target="_blank"><strong class="markup--strong markup--li-strong">Le Maître du Haut-Château</strong></a> de <strong class="markup--strong markup--li-strong">Philip K. Dick</strong> [1962]</li>
+        <!--OK-->{"title": "Le Dieu venu du Centaure", "author": "Philip K. Dick", "year": 1963}</li>
+        <!--OK-->{"title": "La Planète des Singes", "author": "Pierre Boulle", "year": 1963}</li>
+        <li id="9851" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">L’intégrale des nouvelles</strong> de <strong class="markup--strong markup--li-strong">Philip K. Dick</strong></li>
+    </ul>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+    <ul class="postList">
+        <!--OK-->{"title": "Dune", "author": "Frank Herbert", "year": 1965}</li>
+        <!--OK-->{"title": "Tous à Zanzibar", "author": "John Brunner", "year": 1968}</li>
+        <!--OK-->{"title": "Ubik", "author": "Philip K. Dick", "year": 1969}</li>
+        <!--OK-->{"title": "Abattoir 5", "author": "Kurt Vonnegut", "year": 1969}</li>
+        <!--OK-->{"title": "Le Cycle de Tschaï", "author":"Jack Vance", "year":"1968–1970"}
+        <!--OK-->{"title": "Jack Baron &amp; L’éternité", "author": "Norman Spinrad", "year": 1969}</li>
+        <!--OK-->{"title": "Les monades urbaines", "author": "Robert Silverberg", "year": 1971}</li>
+        <li id="5970" class="graf graf--li graf-after--li"><a href="https://justaword.fr/la-main-gauche-de-la-nuit-5fceb281771e" data-href="https://justaword.fr/la-main-gauche-de-la-nuit-5fceb281771e" class="markup--anchor markup--li-anchor" target="_blank"><strong class="markup--strong markup--li-strong">La Main Gauche de la Nuit</strong></a> d’<strong class="markup--strong markup--li-strong">Ursula K. Le Guin</strong> [1971]</li>
+        <!--OK-->{"title": "Vermillion Sands", "author": "J.G Ballard", "year": 1971}</li>
+        <li id="e618" class="graf graf--li graf-after--li"><a href="https://justaword.fr/stalker-8693afea3826" data-href="https://justaword.fr/stalker-8693afea3826" class="markup--anchor markup--li-anchor" target="_blank"><strong class="markup--strong markup--li-strong">Stalker</strong></a> de <strong class="markup--strong markup--li-strong">Boris</strong> et <strong class="markup--strong markup--li-strong">Arkadi Strougatski</strong> [1972]</li>
+    </ul>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+    <ul class="postList">
+        <!--OK-->{"title": "La cinquième tête de Cerbère", "author": "Gene Wolfe", "year": 1972}</li>
+        <!--OK-->{"title": "Malevil", "author": "Robert Merle", "year": 1972}</li>
+        <!--OK-->{"title": "Persistance de la vision", "author": "John Varley", "year": 1978}</li>
+        <!--OK-->{"title": "Axiomatique", "author": "Greg Egan", "year": 1985}</li>
+        <!--OK-->{"title": "La guerre éternelle", "author": "Joe Haldeman", "year": 1974}</li>
+        <!--OK-->{"title": "L’oiseau d’Amérique", "author": "Walter Tevis", "year": 1979}</li>
+        <!--OK-->{"title": "L’œuf du dragon", "author": "Robert L. Forward", "year": 1980}</li>
+        <!--OK-->{"title": "Radix", "author": "A.A. Attanasio", "year": 1981}</li>
+        <!--OK-->{"title": "Neuromancien", "author": "William Gibson", "year": 1984}</li>
+        <!--OK-->{"title": "Schismatrice", "author": "Bruce Sterling", "year": 1985}</li>
+    </ul>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+    <ul class="postList">
+        <!--OK-->{"title": "La stratégie Ender", "author": "Orson Scott Card", "year": 1985}</li>
+        <!--OK-->{"title": "La musique du sang", "author": "Greg Bear", "year": 1985}</li>
+        <!--OK-->{"title": "Une forme de guerre", "author": "Iain M. Banks", "year": 1987}</li>
+        <!--OK-->{"title": "Mother London", "author": "Michael Moorcock", "year": 1988}</li>
+        <!--OK-->{"title": "Hyperion", "author": "Dan Simmons", "year": 1989}</li>
+        <!--OK-->{"title": "Un feu sur l’abîme", "author": "Vernor Vinge", "year": 1992}</li>
+        <!--OK-->{"title": "La Trilogie martienne", "author":"Kim Stanley Robinson", "year":"1992–96"}
+        <!--OK-->{"title": "La cité des permutants", "author": "Greg Egan", "year": 1994}</li>
+        <!--OK-->{"title": "La voie terrestre", "author": "Robert Reed", "year": 1994}</li>
+        <!--OK-->{"title": "L’âge de Diamant", "author": "Neal Stephenson", "year": 1995}</li>
+    </ul>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+    <ul class="postList">
+        <!--OK-->{"title": "Les racines du mal", "author": "Maurice G. Dantec", "year": 1995}</li>
+        <!--OK-->{"title": "Des milliards de tapis de cheveux", "author": "Andreas Eschbach", "year": 1995}</li>
+        <!--OK-->{"title": "Frères de chair", "author": "Michael M. Smith", "year": 1996}</li>
+        <!--OK-->{"title": "Le système Valentine", "author": "John Varley", "year": 1998}</li>
+        <!--OK-->{"title": "Les Extrêmes", "author": "Christopher Priest", "year": 1998}</li>
+        <!--OK-->{"title": "Le Cycle des Inhibiteurs", "author": "Alastair Reynolds", "year": 2000}</li>
+        <!--OK-->{"title": "Supertoys", "author": "Brian Aldiss", "year": 2001}</li>
+        <!--OK-->{"title": "Les puissances de l’invisible", "author": "Tim Powers", "year": 2001}</li>
+        <!--OK-->{"title": "L’ombre du Shrander", "author": "M. John Harrison", "year": 2002}</li>
+        <!--OK-->{"title": "La Tour de Babylone", "author": "Ted Chiang", "year": 2002}</li>
+    </ul>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+    <ul class="postList">
+        <!--OK-->{"title": "Chroniques des Années Noires", "author": "Kim Stanley Robinson", "year": 2002}</li>
+        <!--OK-->{"title": "Carbone Altéré", "author": "Richard Morgan", "year": 2002}</li>
+        <li id="80b8" class="graf graf--li graf-after--li"><a href="https://justaword.fr/veniss-underground-d3282d24500c" data-href="https://justaword.fr/veniss-underground-d3282d24500c" class="markup--anchor markup--li-anchor" target="_blank"><strong class="markup--strong markup--li-strong">Veniss Underground</strong></a> de <strong class="markup--strong markup--li-strong">Jeff Vandermeer</strong> [2003]</li>
+        <!--OK-->{"title": "Cartographie des Nuages", "author": "David Mitchell", "year": 2004}</li>
+        <li id="055f" class="graf graf--li graf-after--li"><a href="https://justaword.fr/le-fleuve-des-dieux-c9a461d2a11b" data-href="https://justaword.fr/le-fleuve-des-dieux-c9a461d2a11b" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Le Fleuve des Dieux</strong></a> de <strong class="markup--strong markup--li-strong">Ian MacDonald</strong> [2004]</li>
+        <li id="d184" class="graf graf--li graf-after--li"><a href="https://justaword.fr/spin-b9bc67d9806b" data-href="https://justaword.fr/spin-b9bc67d9806b" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Spin</strong></a> de <strong class="markup--strong markup--li-strong">Robert Charles Wilson</strong> [2005]</li>
+        <!--OK-->{"title": "Accelerando", "author": "Charles Stross", "year": 2005}</li>
+        <!--OK-->{"title": "Le goût de l’immortalité", "author": "Catherine Dufour", "year": 2005}</li>
+        <li id="e0ab" class="graf graf--li graf-after--li"><a href="https://justaword.fr/vision-aveugle-4c29ac886fd4" data-href="https://justaword.fr/vision-aveugle-4c29ac886fd4" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Vision Aveugle</strong></a> de <strong class="markup--strong markup--li-strong">Peter Watts</strong> [2006]</li>
+        <!--OK-->{"title": "Rainbow’s End", "author": "Vernor Vinge", "year": 2006}</li>
+    </ul>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+    <ul class="postList">
+        <!--OK-->{"title": "La Route", "author": "Cormac McCarthy", "year": 2006}</li>
+        <!--OK-->{"title": "Radieux", "author": "Greg Egan", "year": 2007}</li>
+        <!--OK-->{"title": "La Forêt Sombre", "author": "Liu Cixin", "year": 2008}</li>
+        <li id="30c2" class="graf graf--li graf-after--li"><a href="https://justaword.fr/anat%C3%A8m-bf9f4e173704" data-href="https://justaword.fr/anat%C3%A8m-bf9f4e173704" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Anatèm</strong></a> de <strong class="markup--strong markup--li-strong">Neal Stephenson</strong> [2008]</li>
+        <!--OK-->{"title": "Le Chaos en marche", "author": "Patrick Ness", "year": 2008}</li>
+        <li id="8d0e" class="graf graf--li graf-after--li"><a href="https://justaword.fr/la-fille-automate-bca946a6fe62" data-href="https://justaword.fr/la-fille-automate-bca946a6fe62" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">La Fille-Automate</strong></a> de <strong class="markup--strong markup--li-strong">Paolo Bacigalupi</strong> [2009]</li>
+        <li id="2100" class="graf graf--li graf-after--li"><a href="https://justaword.fr/le-d%C3%A9chronologue-st%C3%A9phane-beauverger-89ea0ec86697" data-href="https://justaword.fr/le-d%C3%A9chronologue-st%C3%A9phane-beauverger-89ea0ec86697" class="markup--anchor markup--li-anchor" target="_blank"><strong class="markup--strong markup--li-strong">Le Déchronologue</strong></a> de <strong class="markup--strong markup--li-strong">Stéphane Beauverger</strong> [2009]</li>
+        <li id="93f8" class="graf graf--li graf-after--li"><a href="https://justaword.fr/qui-a-peur-de-la-mort-2c5db19002f8" data-href="https://justaword.fr/qui-a-peur-de-la-mort-2c5db19002f8" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Qui a peur de la mort&nbsp;?</strong></a> de <strong class="markup--strong markup--li-strong">Nnedi Okorafor</strong> [2010]</li>
+        <!--OK-->{"title": "La Maison des Derviches", "author": "Ian McDonald", "year": 2010}</li>
+        <li id="88f7" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">Le</strong> <strong class="markup--strong markup--li-strong">Voleur Quantique</strong>, trilogie d’<strong class="markup--strong markup--li-strong">Hannu Rajaniemi</strong> [2010]</li>
+    </ul>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+    <ul class="postList">
+        <!--OK-->{"title": "Rêves de gloire", "author": "Roland C. Wagner", "year": 2011}</li>
+        <li id="8969" class="graf graf--li graf-after--li"><a href="https://justaword.fr/lhomme-qui-mit-fin-%C3%A0-l-histoire-ad510851f3e5" data-href="https://justaword.fr/lhomme-qui-mit-fin-%C3%A0-l-histoire-ad510851f3e5" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">L’Homme qui mit fin à l’Histoire</strong></a> de <strong class="markup--strong markup--li-strong">Ken Liu</strong> [2011]</li>
+        <li id="7280" class="graf graf--li graf-after--li"><a href="https://justaword.fr/anamn%C3%A8se-de-lady-star-413fd9a93010" data-href="https://justaword.fr/anamn%C3%A8se-de-lady-star-413fd9a93010" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Anamnèse de Lady Star</strong></a> de <strong class="markup--strong markup--li-strong">Laure</strong> &amp; <strong class="markup--strong markup--li-strong">Laurent Kloetzer</strong> [2013]</li>
+        <li id="722a" class="graf graf--li graf-after--li"><a href="https://justaword.fr/mes-vrais-enfants-a230e9876500" data-href="https://justaword.fr/mes-vrais-enfants-a230e9876500" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Mes Vrais Enfants</strong></a> de <strong class="markup--strong markup--li-strong">Jo Walton</strong> [2014]</li>
+        <li id="5b3c" class="graf graf--li graf-after--li"><a href="https://justaword.fr/la-m%C3%A9nagerie-de-papier-5ae6c3761fc0" data-href="https://justaword.fr/la-m%C3%A9nagerie-de-papier-5ae6c3761fc0" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">La Ménagerie de Papier</strong></a> de <strong class="markup--strong markup--li-strong">Ken Liu</strong> [2015]</li>
+        <!--OK-->{"title": "Dans la Toile du Temps", "author": "Adrian Tchaikovski", "year": 2015}</li>
+        <!--OK-->{"title": "Les livres de la Terre Fracturée", "author": "N.K Jemisin", "year": 2015}</li>
+        <li id="4b1a" class="graf graf--li graf-after--li">Cycle <a href="https://justaword.fr/too-like-the-lightning-665d9f73dea0" data-href="https://justaword.fr/too-like-the-lightning-665d9f73dea0" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Terra Ignota</strong></a> d’<strong class="markup--strong markup--li-strong">Ada Palmer</strong> [2016]</li>
+        <li id="daa5" class="graf graf--li graf-after--li">Diptyque <a href="https://justaword.fr/latium-tome-1-a0870a58140f" data-href="https://justaword.fr/latium-tome-1-a0870a58140f" class="markup--anchor markup--li-anchor" target="_blank"><strong class="markup--strong markup--li-strong">Latium</strong></a> de <strong class="markup--strong markup--li-strong">Romain Lucazeau</strong> [2016]</li>
+        <li id="2c03" class="graf graf--li graf-after--li"><a href="https://justaword.fr/the-book-of-joan-c2aec5481475" data-href="https://justaword.fr/the-book-of-joan-c2aec5481475" class="markup--anchor markup--li-anchor" target="_blank"><strong class="markup--strong markup--li-strong">Le Roman de Jeanne</strong></a> de <strong class="markup--strong markup--li-strong">Lidia Yuknavitch</strong> [2017]</li>
+    </ul>
+    <figure id="aa45" class="graf graf--figure graf-after--li">
+        <div class="aspectRatioPlaceholder is-locked c65"><img class="graf-image" data-image-id="1*9OtESyEe57iqWOzLcPcHKA.jpeg" data-width="600" data-height="912" src="https://cdn-images-1.medium.com/max/1600/1*9OtESyEe57iqWOzLcPcHKA.jpeg" alt="image"></div>
+    </figure>
+    <h4 id="e5a9" class="graf graf--h4 graf-after--figure">Bonus (à venir en français)&nbsp;:</h4>
+    <ul class="postList">
+        <!--OK-->{"title": "Summerland", "author": "Hannu Rajaniemi", "year": 2018}</li>
+    </ul>
+    <h4 id="c73b" class="graf graf--h4 graf-after--li">Bonus (Les oubliés de la liste originale)&nbsp;:</h4>
+    <ul class="postList">
+        <li id="524d" class="graf graf--li graf-after--h4"><strong class="markup--strong markup--li-strong">Terremer</strong>, Cycle d’<strong class="markup--strong markup--li-strong">Ursula K. Le Guin</strong> [1964–2001]</li>
+        <!--OK-->{"title": "Seigneur de Lumière", "author": "Roger Zelazny", "year": 1967}</li>
+        <!--OK-->{"title": "La Nuit des temps", "author": "René Barjavel", "year": 1968}</li>
+        <!--OK-->{"title": "Les Dépossédés", "author": "Ursula K. Le Guin", "year": 1974}</li>
+        <li id="60b0" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">Le Guide du voyageur galactique</strong>, Cycle de <strong class="markup--strong markup--li-strong">Douglas Adams</strong> [1979–1992]</li>
+        <!--OK-->{"title": "Chroniques du Pays des Mères", "author": "Elizabeth Vonarburg", "year": 1992}</li>
+        <li id="83ab" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">Les Guerriers du Silence</strong> de <strong class="markup--strong markup--li-strong">Pierre Bordage</strong> [1993–1995]</li>
+        <!--OK-->{"title": "Parleur ou Chronique d’un rêve enclavé", "author": "Ayerdhal", "year": 1997}</li>
+        <li id="7fd5" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">Étoiles Mourantes</strong> d’<strong class="markup--strong markup--li-strong">Ayerdhal</strong> et <strong class="markup--strong markup--li-strong">Jean-Claude Dunyach</strong> [1999]</li>
+        <!--OK-->{"title": "Planète à Louer", "author": "Yoss", "year": 2001}</li>
+    </ul>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+    <h3 id="0072" class="graf graf--h3 graf-after--figure">Aborder la Science-Fiction selon son&nbsp;niveau</h3>
+    <h4 id="1a3c" class="graf graf--h4 graf-after--h3">→ Je débute dans le genre de la science-fiction…20 propositions accessibles à tous&nbsp;:</h4>
+    <ul class="postList">
+        <!--OK-->{"title": "Frankenstein ou le Prométhée moderne", "author": "Mary Shelley", "year": 1816}</li>
+        <li id="3eba" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">Quinzinzinzili</strong> de <strong class="markup--strong markup--li-strong">Régis Messac</strong>[1935]</li>
+        <!--OK-->{"title": "Fondation", "author": "saac Asimov", "year": 1950}</li>
+        <!--OK-->{"title": "Demain les chiens", "author": "Clifford D. Simak", "year": 1952}</li>
+        <li id="ef18" class="graf graf--li graf-after--li"><a href="https://justaword.fr/des-fleurs-pour-algernon-6e7e083b973b" data-href="https://justaword.fr/des-fleurs-pour-algernon-6e7e083b973b" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Des fleurs pour Algernon</strong></a> de <strong class="markup--strong markup--li-strong">Daniel Keyes</strong> [1959]</li>
+        <!--OK-->{"title": "Dune", "author": "Frank Herbert", "year": 1965}</li>
+        <!--OK-->{"title": "Abattoir 5", "author": "Kurt Vonnegut", "year": 1969}</li>
+        <!--OK-->{"title": "Jack Baron &amp; L’éternité", "author": "Norman Spinrad", "year": 1969}</li>
+        <!--OK-->{"title": "L’oiseau d’Amérique", "author": "Walter Tevis", "year": 1979}</li>
+        <!--OK-->{"title": "La stratégie Ender", "author": "Orson Scott Card", "year": 1985}</li>
+        <!--OK-->{"title": "Hyperion", "author": "Dan Simmons", "year": 1989}</li>
+        <!--OK-->{"title": "Les racines du mal", "author": "Maurice G. Dantec", "year": 1995}</li>
+        <!--OK-->{"title": "Les Extrêmes", "author": "Christopher Priest", "year": 1998}</li>
+        <!--OK-->{"title": "Carbone Altéré", "author": "Richard Morgan", "year": 2002}</li>
+        <li id="7d23" class="graf graf--li graf-after--li"><a href="https://justaword.fr/spin-b9bc67d9806b" data-href="https://justaword.fr/spin-b9bc67d9806b" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Spin</strong></a> de <strong class="markup--strong markup--li-strong">Robert Charles Wilson</strong> [2005]</li>
+        <!--OK-->{"title": "Le goût de l’immortalité", "author": "Catherine Dufour", "year": 2005}</li>
+        <!--OK-->{"title": "Le Chaos en marche", "author": "Patrick Ness", "year": 2008}</li>
+        <li id="4335" class="graf graf--li graf-after--li"><a href="https://justaword.fr/qui-a-peur-de-la-mort-2c5db19002f8" data-href="https://justaword.fr/qui-a-peur-de-la-mort-2c5db19002f8" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Qui a peur de la mort&nbsp;?</strong></a> de <strong class="markup--strong markup--li-strong">Nnedi Okorafor</strong> [2010]</li>
+        <li id="a7b6" class="graf graf--li graf-after--li"><a href="https://justaword.fr/lhomme-qui-mit-fin-%C3%A0-l-histoire-ad510851f3e5" data-href="https://justaword.fr/lhomme-qui-mit-fin-%C3%A0-l-histoire-ad510851f3e5" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">L’Homme qui mit fin à l’Histoire</strong></a> de <strong class="markup--strong markup--li-strong">Ken Liu</strong> [2011]</li>
+        <li id="507f" class="graf graf--li graf-after--li"><a href="https://justaword.fr/mes-vrais-enfants-a230e9876500" data-href="https://justaword.fr/mes-vrais-enfants-a230e9876500" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Mes Vrais Enfants</strong></a> de <strong class="markup--strong markup--li-strong">Jo Walton</strong> [2014]</li>
+    </ul>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+    <h4 id="2863" class="graf graf--h4 graf-after--figure">→ Je connais la science-fiction et je veux aller plus loin…20 propositions pour initiés&nbsp;:</h4>
+    <ul class="postList">
+        <!--OK-->{"title": "Le ciel est mort", "author": "John W. Campbell", "year": 1930}</li>
+        <!--OK-->{"title": "Le meilleur des mondes", "author": "Aldous Huxley", "year": 1932}</li>
+        <!--OK-->{"title": "1984", "author": "George Orwell", "year": 1949}</li>
+        <!--OK-->{"title": "Les enfants d’Icare", "author": "Arthur C. Clarke", "year": 1950}</li>
+        <!--OK-->{"title": "Solaris", "author": "Stanislaw Lem", "year": 1961}</li>
+        <!--OK-->{"title": "Tous à Zanzibar", "author": "John Brunner", "year": 1968}</li>
+        <!--OK-->{"title": "Les monades urbaines", "author": "Robert Silverberg", "year": 1971}</li>
+        <!--OK-->{"title": "Vermillion Sands", "author": "J.G Ballard", "year": 1971}</li>
+        <!--OK-->{"title": "La cinquième tête de Cerbère", "author": "Gene Wolfe", "year": 1972}</li>
+        <!--OK-->{"title": "Neuromancien", "author": "William Gibson", "year": 1984}</li>
+        <!--OK-->{"title": "Une forme de guerre", "author": "Iain M. Banks", "year": 1987}</li>
+        <!--OK-->{"title": "Le Cycle des Inhibiteurs", "author": "Alastair Reynolds", "year": 2000}</li>
+        <!--OK-->{"title": "Les puissances de l’invisible", "author": "Tim Powers", "year": 2001}</li>
+        <!--OK-->{"title": "La Tour de Babylone", "author": "Ted Chiang", "year": 2002}</li>
+        <!--OK-->{"title": "Veniss Underground", "author": "Jeff Vandermeer", "year": 2003}</li>
+        <!--OK-->{"title": "La Route", "author": "Cormac McCarthy", "year": 2006}</li>
+        <!--OK-->{"title": "Radieux", "author": "Greg Egan", "year": 2007}</li>
+        <!--OK-->{"title": "Rêves de gloire", "author": "Roland C. Wagner", "year": 2011}</li>
+        <li id="8660" class="graf graf--li graf-after--li"><a href="https://justaword.fr/la-m%C3%A9nagerie-de-papier-5ae6c3761fc0" data-href="https://justaword.fr/la-m%C3%A9nagerie-de-papier-5ae6c3761fc0" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">La Ménagerie de Papier</strong></a> de <strong class="markup--strong markup--li-strong">Ken Liu</strong> [2015]</li>
+        <li id="d880" class="graf graf--li graf-after--li"><a href="https://justaword.fr/the-book-of-joan-c2aec5481475" data-href="https://justaword.fr/the-book-of-joan-c2aec5481475" class="markup--anchor markup--li-anchor" target="_blank"><strong class="markup--strong markup--li-strong">Le Roman de Jeanne</strong></a> de <strong class="markup--strong markup--li-strong">Lidia Yuknavitch</strong> [2017]</li>
+    </ul>
+</div>
+<div class="section-inner sectionLayout--insetColumn">
+    <h4 id="4e60" class="graf graf--h4 graf-after--figure">→ Je suis un fan de science-fiction, et je veux du lourd…20 propositions pour ceux qui n’ont peur de rien&nbsp;:</h4>
+    <ul class="postList">
+        <!--OK-->{"title": "Flatland", "author": "Edwin A. Abbott", "year": 1884}</li>
+        <li id="5a27" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">Les seigneurs de l’Instrumentalité</strong>, cycle de <strong class="markup--strong markup--li-strong">Cordwainer Smith</strong> [1940–1966]</li>
+        <li id="46be" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">L’intégrale des nouvelles</strong> de <strong class="markup--strong markup--li-strong">Philip K. Dick</strong></li>
+        <!--OK-->{"title": "Ubik", "author": "Philip K. Dick", "year": 1969}</li>
+        <li id="d5d6" class="graf graf--li graf-after--li"><a href="https://justaword.fr/stalker-8693afea3826" data-href="https://justaword.fr/stalker-8693afea3826" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Stalker</strong></a> de <strong class="markup--strong markup--li-strong">Boris</strong> et <strong class="markup--strong markup--li-strong">Arkadi Strougatski</strong> [1972]</li>
+        <!--OK-->{"title": "Radix", "author": "A.A. Attanasio", "year": 1981}</li>
+        <!--OK-->{"title": "Mother London", "author": "Michael Moorcock", "year": 1988}</li>
+        <li id="039f" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">La Trilogie martienne</strong> de <strong class="markup--strong markup--li-strong">Kim Stanley Robinson</strong> [1992–96]</li>
+        <!--OK-->{"title": "La cité des permutants", "author": "Greg Egan", "year": 1994}</li>
+        <!--OK-->{"title": "L’âge de Diamant", "author": "Neal Stephenson", "year": 1995}</li>
+        <!--OK-->{"title": "L’ombre du Shrander", "author": "M. John Harrison", "year": 2002}</li>
+        <!--OK-->{"title": "Accelerando", "author": "Charles Stross", "year": 2005}</li>
+        <!--OK-->{"title": "Rainbow’s End", "author": "Vernor Vinge", "year": 2006}</li>
+        <li id="cc47" class="graf graf--li graf-after--li"><a href="https://justaword.fr/vision-aveugle-4c29ac886fd4" data-href="https://justaword.fr/vision-aveugle-4c29ac886fd4" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Vision Aveugle</strong></a> de <strong class="markup--strong markup--li-strong">Peter Watts</strong> [2006]</li>
+        <li id="eae5" class="graf graf--li graf-after--li"><a href="https://justaword.fr/anat%C3%A8m-bf9f4e173704" data-href="https://justaword.fr/anat%C3%A8m-bf9f4e173704" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Anatèm</strong></a> de <strong class="markup--strong markup--li-strong">Neal Stephenson</strong> [2008]</li>
+        <li id="28aa" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">Le</strong> <strong class="markup--strong markup--li-strong">Voleur Quantique</strong>, trilogie d’<strong class="markup--strong markup--li-strong">Hannu Rajaniemi</strong> [2010]</li>
+        <!--OK-->{"title": "La Maison des Derviches", "author": "Ian McDonald", "year": 2010}</li>
+        <li id="c260" class="graf graf--li graf-after--li"><a href="https://justaword.fr/anamn%C3%A8se-de-lady-star-413fd9a93010" data-href="https://justaword.fr/anamn%C3%A8se-de-lady-star-413fd9a93010" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Anamnèse de Lady Star</strong></a> de <strong class="markup--strong markup--li-strong">Laure</strong> &amp; <strong class="markup--strong markup--li-strong">Laurent Kloetzer</strong> [2013]</li>
+        <li id="6c84" class="graf graf--li graf-after--li">Cycle <a href="https://justaword.fr/too-like-the-lightning-665d9f73dea0" data-href="https://justaword.fr/too-like-the-lightning-665d9f73dea0" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--li-strong">Terra Ignota</strong></a> d’<strong class="markup--strong markup--li-strong">Ada Palmer</strong> [2016]</li>
+        <li id="99e8" class="graf graf--li graf-after--li">Diptyque <a href="https://justaword.fr/latium-tome-1-a0870a58140f" data-href="https://justaword.fr/latium-tome-1-a0870a58140f" class="markup--anchor markup--li-anchor" target="_blank"><strong class="markup--strong markup--li-strong">Latium</strong></a> de <strong class="markup--strong markup--li-strong">Romain Lucazeau</strong> [2016]</li>
+    </ul>
+    <p id="0316" class="graf graf--p graf-after--li">….et surtout bonne<em class="markup--em markup--p-em">(s)</em> lecture<em class="markup--em markup--p-em">(s)</em> à tous et toutes&nbsp;!</p>
+    <p id="056c" class="graf graf--p graf-after--p">— — — — — — — — — — — — — — — — — — — — — — — — — — — — — —</p>
+    <p id="32bc" class="graf graf--p graf-after--p"><em class="markup--em markup--p-em">Cet article est en partie construit sur celui du défunt</em> <strong class="markup--strong markup--p-strong"><em class="markup--em markup--p-em">Cafard Cosmique</em></strong> <em class="markup--em markup--p-em">avec l’aimable permission de</em> <strong class="markup--strong markup--p-strong"><em class="markup--em markup--p-em">Mr Cafard</em></strong><em class="markup--em markup--p-em">, avec une actualisation par</em> <strong class="markup--strong markup--p-strong"><em class="markup--em markup--p-em">Nicolas Winter</em></strong><em class="markup--em markup--p-em">.<br>Remerciements à toutes les personnes qui ont participé au sondage ayant permis la mise en ligne de cette liste.</em></p>
+    <figure id="3626" class="graf graf--figure graf-after--p graf--trailing">
+        <div class="aspectRatioPlaceholder is-locked c69"><img class="graf-image" data-image-id="1*lGP4r0BVXxxPmVBFVYWlvg.jpeg" data-width="598" data-height="143" src="https://cdn-images-1.medium.com/max/1600/1*lGP4r0BVXxxPmVBFVYWlvg.jpeg" alt="image"></div>
+    </figure>
+</div>
